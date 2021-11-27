@@ -4,7 +4,7 @@
 
 ## My Projects
 - [```ROGUE```](https://github.com/akabinds/ROGUE) - Multipurpose Discord Bot in Python (**v0.1-closed** release)
-- [```ModernTM```](https://github.com/akabinds/ModernTM) - Modern & Feature Rich Task Manager created using Python & ElectronJS (In Development) 
+- [```ModernTM```](https://github.com/akabinds/ModernTM) - Modern & Feature Rich Task Manager created using ElectronJS (In Development) 
 
 ## Socials
 - ```Twitch``` - bindsings
