@@ -8,6 +8,12 @@
 - [```ModernTM```](https://github.com/akabinds/ModernTM) - Modern & Feature Rich Task Manager in Rust (Starting Development Soon)
 - [```moderntm-website```](https://github.com/akabinds/moderntm-website) - Website for ModernTM Application (In Development)
 
+## My Programming Languages
+- Python
+- C# 
+- Rust
+- JavaScript/TypeScript
+
 ## Socials
 - ```Twitch``` - bindsings
 - ```Twitter``` - fpsbinds
