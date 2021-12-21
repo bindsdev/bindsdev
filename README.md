@@ -10,8 +10,17 @@
 
 ## My Programming Languages
 - Python
+  - nextcord.py/discord.py
+  - Django
+  - Flask
 - C# 
+  - ASP.NET
+  - WPF
+  - XAML
 - Rust
+  - Tide
+  - Yew
+  - Druid
 - JavaScript/TypeScript
 
 ## Socials
