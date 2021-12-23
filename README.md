@@ -15,7 +15,6 @@
   - Flask
 - C# 
   - ASP.NET
-  - WPF
   - XAML
 - Rust
   - Tide
