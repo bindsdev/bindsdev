@@ -1,6 +1,4 @@
 - 💻 Aspiring Backend/Software Developer
-- 🎮 Diamond 3 VALORANT IGL
-- 🎥 Occasional Streamer & Youtuber
 
 ## My Projects
 - [```ROGUE```](https://github.com/akabinds/ROGUE) - Generalpurpose Discord Bot in Python using nextcord.py (**v0.1.4-closed** release) 
@@ -15,7 +13,7 @@
   - Flask
 - C# 
   - ASP.NET
-  - XAML
+  - Electron.NET
 - Rust
   - Tide
   - Yew
