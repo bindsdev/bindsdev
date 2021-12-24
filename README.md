@@ -19,6 +19,10 @@
   - Yew
   - Druid
 - JavaScript/TypeScript
+- HTML
+- CSS
+  - TailwindCSS
+  - Sass/Scss
 
 ## Socials
 - ```Twitch``` - bindsings
