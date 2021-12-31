@@ -6,21 +6,12 @@
 
 ## My Programming Languages
 - Python
-  - nextcord.py/discord.py
-  - Django
-  - Flask
-- C# 
-  - ASP.NET
-  - Electron.NET
+- C#
 - Rust
-  - Tide
-  - Yew
-  - Druid
-- JavaScript/TypeScript
+- JavaScript
+- TypeScript
 - HTML
 - CSS
-  - TailwindCSS
-  - Sass/Scss
 
 ## Socials
 - ```Twitch``` - bindsings
