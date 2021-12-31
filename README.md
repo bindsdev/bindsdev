@@ -28,4 +28,4 @@
 - ```Twitch``` - bindsings
 - ```Twitter``` - fpsbinds
 - ```TikTok``` - bindsval
-- ```Discord``` - binds#4269
+- ```Discord``` - binds#3302
