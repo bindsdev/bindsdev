@@ -1,17 +1,12 @@
-- 💻 Aspiring Backend/Software Developer
+I am binds, an aspiring backend and software developer focusing on C# and Rust. 
 
-## My Projects
-- [```Ghost```](https://github.com/akabinds/Ghost) - Generalpurpose Discord Bot in Python using Disnake (ROGUE Revamp)
-- [```ghost-website```](https://github.com/akabinds/ghost-website) - Website for the Ghost Discord Bot
+## Projects
 - [```pincer-bot-template```](https://github.com/akabinds/pincer-bot-template) - A template for a Python Discord bot using the [Pincer](https://github.com/Pincer-org/Pincer) Discord API wrapper.
 
-## My Programming Languages
+## Programming Languages
 - Python
 - C#
 - Rust
-- JavaScript/TypeScript
-- HTML
-- CSS
 - SQL
 
 ## Socials
