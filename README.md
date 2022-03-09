@@ -15,6 +15,7 @@ I am binds, an aspiring backend and software developer working with C# and TypeS
     - Prisma
   - Deno
     - Oak
+- Rust
 
 ## Socials
 - ```Twitch``` - bindsings
