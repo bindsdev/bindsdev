@@ -1,4 +1,4 @@
-I am binds, an aspiring backend and software developer working with C# and TypeScript.
+I am binds, an aspiring backend and software developer working with C# and TypeScript (Rust eventually as well).
 
 ## Repositories and Notable Projects
 - [```pincer-bot-template```](https://github.com/akabinds/pincer-bot-template) - A template for a Python Discord bot using the [Pincer](https://github.com/Pincer-org/Pincer) Discord API wrapper
@@ -6,7 +6,6 @@ I am binds, an aspiring backend and software developer working with C# and TypeS
 - [```nestjs-prisma-api```](https://github.com/akabinds/nestjs-prisma-api) - Simple web API in Nest.js, using Prisma ORM and PostgreSQL
 
 ## Programming Languages and Technologies
-- Python
 - C#
   - ASP.NET Core 
 - TypeScript
