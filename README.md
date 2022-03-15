@@ -42,7 +42,7 @@ Hello, I am binds. I am an aspiring backend/software developer. I mainly work wi
 - I play basketball and tennis.
 
 # ™️ Socials
-- Twitter: @fpsbinds
-- Twitch: bindsings
-- Discord: binds#3302
-- TikTok: bindsval
+- **Twitter**: @fpsbinds
+- **Twitch**: bindsings
+- **Discord**: binds#3302
+- **TikTok**: bindsval
