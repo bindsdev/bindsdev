@@ -6,21 +6,14 @@ Hello, I am binds. I am an aspiring backend/software developer. I mainly work wi
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
 ![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
-![](https://img.shields.io/badge/Language-TypeScript-7393B3?logo=typescript&style=flat-square)
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
 ![](https://img.shields.io/badge/Language-SQL-7393B3?logo=sql&style=flat-square)
 ![](https://img.shields.io/badge/Platform-.NET-7393B3?logo=dotnet&style=flat-square)
-![](https://img.shields.io/badge/Runtime-Node.js-7393B3?logo=Node.js&style=flat-square)
-![](https://img.shields.io/badge/Framework-Nest.js-7393B3?logo=nestjs&style=flat-square)
-![](https://img.shields.io/badge/Framework-Express-7393B3?logo=express&style=flat-square)
-![](https://img.shields.io/badge/Runtime-Deno-7393B3?logo=deno&style=flat-square)
-![](https://img.shields.io/badge/Framework-Oak-7393B3?&style=flat-square)
 ![](https://img.shields.io/badge/Technology-Git-7393B3?logo=git&style=flat-square)
 ![](https://img.shields.io/badge/Technology-GraphQL-7393B3?logo=graphql&style=flat-square)
 ![](https://img.shields.io/badge/Database-PostgreSQL-7393B3?logo=postgresql&style=flat-square)
 ![](https://img.shields.io/badge/Database-SQLite-7393B3?logo=sqlite&style=flat-square)
 ![](https://img.shields.io/badge/Database-Redis-7393B3?logo=redis&style=flat-square)
-![](https://img.shields.io/badge/ORM-Prisma-7393B3?logo=prisma&style=flat-square)
 ![](https://img.shields.io/badge/OS-Windows-7393B3?logo=windows&style=flat-square)
 
 
