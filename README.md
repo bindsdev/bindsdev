@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/78362190/158390116-b4b932be-e0d0-4683-b84c-dc98e2f61387.png)
 
 # 👋 About Me
-Hello, I am binds. I am an aspiring backend/software developer. I mainly work with the Python, C#, and Rust programming languages.
+Hello, I am binds. I am an aspiring backend/software developer. I mainly work with the Rust and C# programming languages, and occasionally with Python.
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
