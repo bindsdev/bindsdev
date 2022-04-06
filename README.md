@@ -15,6 +15,9 @@ Hello, I am binds. I am an aspiring backend/software developer. I mainly work wi
 ![](https://img.shields.io/badge/Database-SQLite-7393B3?logo=sqlite&style=flat-square)
 ![](https://img.shields.io/badge/Database-Redis-7393B3?logo=redis&style=flat-square)
 ![](https://img.shields.io/badge/OS-Windows-7393B3?logo=windows&style=flat-square)
+![](https://img.shields.io/badge/OS-Ubuntu-7393B3?logo=ubuntu&style=flat-square)
+
+
 
 
 # ✅ Notable Repositories and Projects
@@ -31,14 +34,3 @@ Hello, I am binds. I am an aspiring backend/software developer. I mainly work wi
 # 📈 Other Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akabinds&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akabinds&theme=tokyonight&show_icons=true&line_height=33.8)](https://github.com/anuraghazra/github-readme-stats)
-
-# ➕ More About Me
-- I love Star Wars
-- I love video games, namely VALORANT and Star Wars Battlefront 2
-- I play basketball and tennis.
-
-# ™️ Socials
-- **Twitter**: @fpsbinds
-- **Twitch**: bindsings
-- **Discord**: binds#3302
-- **TikTok**: bindsval
