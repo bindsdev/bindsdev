@@ -5,7 +5,6 @@ Hello, I am binds. I am an aspiring backend/software developer. I mainly work wi
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
-![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
 ![](https://img.shields.io/badge/Language-SQL-7393B3?logo=sql&style=flat-square)
 ![](https://img.shields.io/badge/Platform-.NET-7393B3?logo=dotnet&style=flat-square)
