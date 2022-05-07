@@ -23,9 +23,6 @@ Hello, I am binds. I am an aspiring backend/systems developer. I mainly work wit
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=express-prisma-api&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=dirgen&theme=tokyonight" />
-</a>
 
 # 📈 Other Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akabinds&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
