@@ -34,3 +34,4 @@ Hello, I am binds. I am an aspiring backend/systems developer. I mainly work wit
 # Other Languages I Am Interested In
 - F#
 - Elixir
+- Zig
