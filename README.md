@@ -1,11 +1,18 @@
 ![Header](https://user-images.githubusercontent.com/78362190/158390116-b4b932be-e0d0-4683-b84c-dc98e2f61387.png)
 
 # 👋 About Me
-Hello, I am binds. I am an aspiring backend/systems developer. I mainly work with the Rust and C# programming languages. 
+Welcome! I am binds, an aspiring systems, backend, and devops developer. I primarily use Rust, with additional experience in Python and C#. 
+
+I also plan to gain experience in the following languages:
+- **Elixir**, for fun
+- **Go**, for backend development
+- **Zig**, for systems development
+- **Shell**, for scripting
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
+![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/Language-SQL-7393B3?logo=sql&style=flat-square)
 ![](https://img.shields.io/badge/Platform-.NET-7393B3?logo=dotnet&style=flat-square)
 ![](https://img.shields.io/badge/Technology-Git-7393B3?logo=git&style=flat-square)
@@ -36,8 +43,3 @@ Hello, I am binds. I am an aspiring backend/systems developer. I mainly work wit
 # 📈 Other Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akabinds&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akabinds&theme=tokyonight&show_icons=true&line_height=33.8)](https://github.com/anuraghazra/github-readme-stats)
-
-# Other Languages I Am Interested In
-- F#
-- Elixir
-- Zig
