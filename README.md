@@ -21,6 +21,12 @@ Hello, I am binds. I am an aspiring backend/systems developer. I mainly work wit
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=phoenix-api&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=rust-book-io-project&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=rust-book-final-project&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=nestjs-prisma-api&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
