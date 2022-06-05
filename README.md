@@ -25,6 +25,9 @@ I also plan to gain experience in the following languages:
 
 # ✅ Notable Repositories and Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=challenges&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=phoenix-api&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -41,5 +44,5 @@ I also plan to gain experience in the following languages:
 </a>
 
 # 📈 Other Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akabinds&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akabinds&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akabinds&theme=tokyonight&show_icons=true&line_height=33.8)](https://github.com/anuraghazra/github-readme-stats)
