@@ -1,13 +1,16 @@
 ![Header](https://user-images.githubusercontent.com/78362190/158390116-b4b932be-e0d0-4683-b84c-dc98e2f61387.png)
 
 # 👋 About Me
-Welcome! I am binds, an aspiring systems, backend, and devops developer (WASM looks interesting too). I primarily use Rust, with additional experience in Python and C#. 
+Welcome! I am binds, an aspiring systems and devops developer. I primarily use Rust, with additional experience in Python and C#. 
 
 I also plan to gain experience in the following languages:
 - **Elixir**, for fun
-- **Go**, for backend development
+- **Go**, for devops and server-side development
 - **Zig**, for systems development
 - **Shell**, for scripting
+
+I am interested in the following technologies:
+- **WebAssembly** (WASM)
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
