@@ -5,7 +5,6 @@ Welcome! I am binds, an aspiring systems and devops developer. I primarily use R
 
 I also plan to gain experience in the following languages:
 - **Elixir**, for fun
-- **Go**, for devops and server-side development
 - **Zig**, for systems development
 - **Shell**, for scripting
 
