@@ -5,7 +5,6 @@ Welcome! I am binds, an aspiring systems, backend, and devops developer. I prima
 
 I also plan to gain experience in the following languages:
 - **Elixir**, for fun
-- **Zig**, for systems development
 - **Shell**, for scripting
 
 I am interested in the following technologies:
