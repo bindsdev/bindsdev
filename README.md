@@ -10,6 +10,10 @@ I also plan to gain experience in the following languages:
 I am interested in the following technologies:
 - **WebAssembly** (WASM)
 
+I am interested in the following fields/topics:
+- Cryptography
+- Security
+
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
