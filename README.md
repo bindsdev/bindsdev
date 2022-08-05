@@ -1,7 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/78362190/158390116-b4b932be-e0d0-4683-b84c-dc98e2f61387.png)
 
 # 👋 About Me
-Welcome! I am binds, an aspiring systems, backend, and devops developer. I primarily use Rust, with additional experience in Python, Crystal, Elixir, Zig, and C#. 
+Welcome! I am binds, an aspiring systems, backend, and devops developer. I primarily use Rust, with additional experience in Python, Elixir, Zig, and C#. 
 
 I am interested in the following technologies:
 - **WebAssembly** (WASM)
@@ -16,7 +16,6 @@ I am interested in the following fields/topics:
 ![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
 ![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/Language-Zig-7393B3?logo=zig&style=flat-square)
-![](https://img.shields.io/badge/Language-Crystal-7393B3?logo=crystal&style=flat-square)
 ![](https://img.shields.io/badge/Language-Shell-7393B3?&style=flat-square)
 ![](https://img.shields.io/badge/Language-SQL-7393B3?&style=flat-square)
 ![](https://img.shields.io/badge/Platform-.NET-7393B3?logo=dotnet&style=flat-square)
