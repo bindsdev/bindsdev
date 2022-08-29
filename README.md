@@ -38,6 +38,9 @@ I am interested in the following fields/topics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=mix-edit&theme=tokyonight" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=dirgen-csharp&theme=tokyonight" />
+</a>
 
 # 📈 Other Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akabinds&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
