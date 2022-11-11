@@ -1,17 +1,15 @@
 
 
 # 👋 About Me
-Welcome! I am binds, an aspiring systems developer. I primarily use Rust, with additional experience in Python, Elixir, Zig, and C#. 
+Welcome! I am binds, an aspiring systems developer. I primarily use Rust, with additional experience in Python, Elixir, and Zig.
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
 ![](https://img.shields.io/badge/Language-Elixir-7393B3?logo=elixir&style=flat-square)
-![](https://img.shields.io/badge/Language-csharp-7393B3?logo=csharp&style=flat-square)
 ![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/Language-Zig-7393B3?logo=zig&style=flat-square)
 ![](https://img.shields.io/badge/Language-Shell-7393B3?&style=flat-square)
 ![](https://img.shields.io/badge/Language-SQL-7393B3?&style=flat-square)
-![](https://img.shields.io/badge/Platform-.NET-7393B3?logo=dotnet&style=flat-square)
 ![](https://img.shields.io/badge/Technology-Git-7393B3?logo=git&style=flat-square)
 ![](https://img.shields.io/badge/Technology-GraphQL-7393B3?logo=graphql&style=flat-square)
 ![](https://img.shields.io/badge/Database-PostgreSQL-7393B3?logo=postgresql&style=flat-square)
