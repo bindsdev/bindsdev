@@ -11,7 +11,6 @@ Welcome! I am binds, an aspiring systems developer. I primarily use Rust, with a
 ![](https://img.shields.io/badge/Language-Shell-7393B3?&style=flat-square)
 ![](https://img.shields.io/badge/Language-SQL-7393B3?&style=flat-square)
 ![](https://img.shields.io/badge/Technology-Git-7393B3?logo=git&style=flat-square)
-![](https://img.shields.io/badge/Technology-GraphQL-7393B3?logo=graphql&style=flat-square)
 ![](https://img.shields.io/badge/Database-PostgreSQL-7393B3?logo=postgresql&style=flat-square)
 ![](https://img.shields.io/badge/Database-SQLite-7393B3?logo=sqlite&style=flat-square)
 ![](https://img.shields.io/badge/Database-Redis-7393B3?logo=redis&style=flat-square)
