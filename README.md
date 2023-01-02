@@ -19,9 +19,6 @@ Welcome! I am binds, an aspiring systems developer. I primarily use Rust, with a
 
 # ✅ Notable Repositories and Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=sectordb&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=prestige&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
