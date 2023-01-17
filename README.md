@@ -1,11 +1,12 @@
 
 
 # 👋 About Me
-Welcome! I am binds, an aspiring systems developer. I primarily use Rust, with additional experience in x86-64 Assembly, Elixir, and Python.
+Welcome! I am binds, an aspiring systems developer. I primarily use Rust, with additional experience in x86-64 Assembly, C, Elixir, and Python.
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
-![](https://img.shields.io/badge/Language-Assembly-7393B3)
+![](https://img.shields.io/badge/Language-Assembly-7393B3?&style=flat-square)
+![](https://img.shields.io/badge/Language-C-7393B3?logo=c&style=flat-square)
 ![](https://img.shields.io/badge/Language-Elixir-7393B3?logo=elixir&style=flat-square)
 ![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/Language-Shell-7393B3?&style=flat-square)
