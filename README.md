@@ -22,13 +22,7 @@ I am an aspiring systems developer. I primarily use Rust, with additional experi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=prestige&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=claw&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=.dotfiles&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=challenges&theme=tokyonight" />
 </a>
 
 # 📈 Other Stats
