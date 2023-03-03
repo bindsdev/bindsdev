@@ -1,7 +1,7 @@
 
 
 # 👋 About Me
-I am an aspiring systems developer. I primarily use Rust, with additional experience in C, Assembly (x86-64 and AArch64), and Python.
+I am an aspiring systems developer. I primarily use Rust, with additional experience in C, Assembly (x86-64, AArch64, and RISC-V), and Python.
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
@@ -9,11 +9,6 @@ I am an aspiring systems developer. I primarily use Rust, with additional experi
 ![](https://img.shields.io/badge/Language-C-7393B3?logo=c&style=flat-square)
 ![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/Language-Shell-7393B3?&style=flat-square)
-![](https://img.shields.io/badge/Language-SQL-7393B3?&style=flat-square)
-![](https://img.shields.io/badge/Technology-Git-7393B3?logo=git&style=flat-square)
-![](https://img.shields.io/badge/Database-PostgreSQL-7393B3?logo=postgresql&style=flat-square)
-![](https://img.shields.io/badge/Database-SQLite-7393B3?logo=sqlite&style=flat-square)
-![](https://img.shields.io/badge/Database-Redis-7393B3?logo=redis&style=flat-square)
 ![](https://img.shields.io/badge/OS-Windows-7393B3?logo=windows&style=flat-square)
 ![](https://img.shields.io/badge/OS-Ubuntu-7393B3?logo=ubuntu&style=flat-square)
 
