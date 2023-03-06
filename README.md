@@ -1,16 +1,18 @@
 
 
 # 👋 About Me
-I am an aspiring systems developer. I primarily use Rust, with additional experience in C, Assembly (x86-64, AArch64, and RISC-V), and Python.
+I am an aspiring systems developer. I primarily use Rust, with additional experience in C, and Assembly (x86-64, AArch64, and RISC-V).
 
-# 🖥️ Technologies & Languages
+# 🥇 Preferred Technologies & Languages
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
 ![](https://img.shields.io/badge/Language-Assembly-7393B3?&style=flat-square)
 ![](https://img.shields.io/badge/Language-C-7393B3?logo=c&style=flat-square)
-![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
 ![](https://img.shields.io/badge/Language-Shell-7393B3?&style=flat-square)
-![](https://img.shields.io/badge/OS-Windows-7393B3?logo=windows&style=flat-square)
 ![](https://img.shields.io/badge/OS-Ubuntu-7393B3?logo=ubuntu&style=flat-square)
+
+# 🥈 Additional Technologies & Languages
+![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
+![](https://img.shields.io/badge/OS-Windows-7393B3?logo=windows&style=flat-square)
 
 # ✅ Notable Repositories and Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
