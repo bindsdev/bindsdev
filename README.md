@@ -16,7 +16,7 @@ I am an aspiring systems developer. I primarily use Rust, with additional experi
 
 # ✅ Notable Repositories and Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=prestige&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=mhOS&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=ghcli-tui&theme=tokyonight" />
