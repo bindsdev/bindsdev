@@ -1,7 +1,7 @@
 
 
 # 👋 About Me
-I am an aspiring systems developer. I primarily use Rust, with additional experience in C, and Assembly (x86-64, AArch64, and RISC-V).
+I am an OS and embedded development enthusiast. I primarily use Rust, with additional experience in C, and Assembly (x86-64, AArch64, and RISC-V).
 
 # 🥇 Preferred Technologies & Languages
 ![](https://img.shields.io/badge/Language-Rust-7393B3?logo=rust&style=flat-square)
